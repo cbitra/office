@@ -1,0 +1,9 @@
+This is my 2nd file
+Today is Tuesday
+Have a great day
+github is cool
+git is fun to learn.
+
+bye.
+
+echo
